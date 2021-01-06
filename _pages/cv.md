@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can find a pdf version of my latest CV [here](https://martonfleck.github.io/files/cv.pdf).
 
 Education
 ======
