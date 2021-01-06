@@ -11,49 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD in Economics, Central European University, 2018-
+* MA in Economics, Central European University, 2018
+* BA in Applied Economics, Eotvos Lorand University, 2015
+* BA in Psychology, Eotvos Lorand University, 2017 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research asssistant at CEU Microdata, 2017-
+  * Collecting, cleaning, and analyzing large scale datasets using Python and Stata
+  * Supervised by [Adam Szeidl](http://www.personal.ceu.hu/staff/Adam_Szeidl/) and [Miklos Koren](https://koren.mk)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer associate at RBB Economics, The Hague, Netherlands, 2018
+  * Working on mergers, acquisitions, and abuse of dominance cases before the European Commission
+  * Gaining experience in a wide range of sectors, including telecommunications, cargo logistics, and FMCG
   
-Skills
+Computer skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Stata, Python, R, LaTeX
 
-Publications
+Language skills
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* English (fluent), German (passive), Hungarian (native)
