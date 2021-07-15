@@ -11,6 +11,7 @@ You can find a pdf version of my latest CV [here](https://martonfleck.github.io/
 
 Education
 ======
+* Visiting doctoral student, Erasmus School of Economics, 2021
 * PhD in Economics, Central European University, 2018-
 * MA in Economics, Central European University, 2018
 * BA in Applied Economics, Eotvos Lorand University, 2015
